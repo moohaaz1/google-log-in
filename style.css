@@ -1,0 +1,88 @@
+
+body{
+    background-color: #4F4557;
+}
+hr{
+    width: 100px;
+    margin-top: -8px;
+    margin-left: -110px;
+}
+
+.ht{
+
+    margin-left: 135px;
+}
+.dj{
+    background-color: rgba(0, 4, 255, 0.541);
+    border-radius: 100%;
+    width: 20px;
+  
+}
+.header{
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.219);
+    border-radius: 10px;
+    margin-top: 5%;
+    margin-left: 35%;
+    background-color: #ffffff;
+    width: 18%;
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-right: 55px;padding-bottom: 30px;
+}
+.text-1 p{
+    position: relative;
+    margin-top: -18px;
+    color: gray;
+    font-size: 12px;
+}
+.gogle button{
+    padding: 11px;
+    width: 243px;
+    font-weight: 900;
+    border-radius: 3px;
+    border: solid 1px gray;
+    background: transparent;
+}
+.gogle img{
+    width: 20px;
+    margin-left: -30px;
+    position: absolute;
+}
+.spn{
+margin-left: 48%;
+position: relative;
+margin-top: 20px;
+
+}
+.input input{
+    padding: 15px;
+    width: 210px;
+    border: solid 1px;
+    border-radius: 3px;
+}
+.input{
+    gap: 30px;
+    padding-top: 20px;
+}
+.forget p{
+    position: relative;
+    color: blue;
+    font-weight: 600;
+    font-size: 11px;
+    margin-left: 150px;
+}
+.sign button{
+    padding: 15px;
+    width: 247px;
+    border: 0;
+    border-radius: 3px;
+    color: white;
+    background-color: blue;
+}
+.lst a{
+    text-decoration: beige;
+    color: blue;
+    font-weight: 800;
+    font-size: 15px;
+    position: relative;
+}
